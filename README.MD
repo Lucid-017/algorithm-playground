@@ -1,0 +1,1 @@
+## This file will cover what algorithms we have implemented, how to run a test on them and also key notes from the whole thing
